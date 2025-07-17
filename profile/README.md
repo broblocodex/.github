@@ -1,6 +1,6 @@
-# 🎮 BroBLOCodex Scripts
+# 🎮 Broblocodex Scripts
 
-A collection of simple and fun Roblox scripts from the [BroBLOCodex](https://broblocodex.dev) community.
+A collection of simple and fun Roblox scripts from the [Broblocodex](https://broblocodex.dev) community.
 
 ## 🔹 What's Inside
 - Ready-to-use game mechanics  
@@ -20,15 +20,3 @@ A collection of simple and fun Roblox scripts from the [BroBLOCodex](https://bro
 - Telegram: [@roblox_pro_academy](https://t.me/roblox_pro_academy)  
 - Instagram: [robloxpro.academy](https://www.instagram.com/robloxpro.academy)  
 - More: [Community Channels](https://broblocodex.dev/docs/intro/community)
-
----
-
-## 🚀 How to Use
-1. Clone or download the repo  
-2. Open the script folder in Roblox Studio  
-3. Customize as needed  
-4. Play and test in-game!
-
----
-
-Have fun building and learning with BroBLOCodex 💚
