@@ -2,17 +2,6 @@
 
 A collection of simple and fun Roblox scripts from the [Broblocodex](https://broblocodex.dev) community.
 
-## 🔹 What's Inside
-- Ready-to-use game mechanics  
-- Well-commented code  
-- Easy to copy into your Roblox Studio projects
-
-## 💡 Example Mechanics
-- Teleporters  
-- GUI buttons  
-- Badge & reward systems  
-- Timers and checkpoints  
-
 ## 🌐 Links
 - Portal: [broblocodex.dev](https://broblocodex.dev)  
 - YouTube: [@RobloxProAcademy](https://www.youtube.com/@RobloxProAcademy)  
